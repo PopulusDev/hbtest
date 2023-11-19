@@ -1,0 +1,60 @@
+main:
+  - name: Games
+    identifier: games
+    weight: 20
+    url: /games
+    params:
+      header: Different games played.
+      icon:
+        vendor: font-awesome-solid
+        name: gamepad
+
+  - name: "Yu-Gi-Oh! Master Duel"
+    parent: games
+    url: /games/masterduel
+    weight: 1
+    params:
+      description: TCG
+    pre: '<img src="images/m.png style="height: 40px; width: 40px;" alt="YGO">'
+    # pre: "<img src='images/m.png style='height: 40px; width: 40px;' alt='YGO'>"
+
+  - name: Pokémon
+    identifier: pokemon
+    parent: games
+    url: /games/pokemon
+    weight: 11
+    params:
+      image:
+        name: images/m.png
+      description: RPG
+
+  - name: Octopath Traveler
+    parent: games
+    url: /games/octopath
+    weight: 12
+    params:
+      icon:
+        vendor: font-awesome-regular
+        name: comments
+        color: green
+      description: JRPG
+
+  - name: Cuphead
+    parent: games
+    url: /games/cuphead
+    weight: 13
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bug
+        color: red
+      description: Platformer
+
+  - name: Pokémon Scarlet and Violet
+    parent: pokemon
+    url: /games/pokemon/pokemonsv
+    weight: 111
+    params:
+      image:
+        name: MD
+      description: RPG
