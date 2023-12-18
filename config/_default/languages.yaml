@@ -2,3 +2,6 @@ en:
   languageName: English
   weight: 1
 
+zh-hans:
+  languageName: KK
+  disabled: true 

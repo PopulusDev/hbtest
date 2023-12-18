@@ -9,7 +9,7 @@ main:
         vendor: font-awesome-solid
         name: gamepad
 
-  - name: "Yu-Gi-Oh! Master Duel"
+#  - name: "Yu-Gi-Oh! Master Duel"
     parent: games
     url: /games/masterduel
     weight: 1
@@ -18,7 +18,7 @@ main:
     pre: '<img src="images/m.png style="height: 40px; width: 40px;" alt="YGO">'
     # pre: "<img src='images/m.png style='height: 40px; width: 40px;' alt='YGO'>"
 
-  - name: Pokémon
+#  - name: Pokémon
     identifier: pokemon
     parent: games
     url: /games/pokemon
@@ -28,7 +28,7 @@ main:
         name: images/m.png
       description: RPG
 
-  - name: Octopath Traveler
+#  - name: Octopath Traveler
     parent: games
     url: /games/octopath
     weight: 12
@@ -39,7 +39,7 @@ main:
         color: green
       description: JRPG
 
-  - name: Cuphead
+#  - name: Cuphead
     parent: games
     url: /games/cuphead
     weight: 13
@@ -50,7 +50,7 @@ main:
         color: red
       description: Platformer
 
-  - name: Pokémon Scarlet and Violet
+#  - name: Pokémon Scarlet and Violet
     parent: pokemon
     url: /games/pokemon/pokemonsv
     weight: 111

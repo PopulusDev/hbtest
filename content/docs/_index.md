@@ -1,12 +1,12 @@
 ---
-title: Docs
+title: Games
 menu:
   main:
     weight: 1
     params:
       icon:
-        vendor: bs
-        name: book
+        vendor: font-awesome-solid
+        name: gamepad
 ---
 
 The example of Docs layout.
