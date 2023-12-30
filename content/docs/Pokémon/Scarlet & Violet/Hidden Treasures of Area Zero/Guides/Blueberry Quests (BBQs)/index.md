@@ -1,8 +1,9 @@
 ---
 date: 2023-12-18T17:32:23+08:00
 title: Blueberry Quests
-nav_weight: 1
+nav_weight: 2
 description: What are blueberry quests and how to complete them?
+url: /games/pokemon/sv/dlc/guides/Blueberry-quests
 series:
   - Guides
 categories:
@@ -11,6 +12,7 @@ tags:
   - Guide
   - Pokemon
   - DLC
+  - Scarlet & Violet
 images:
   - Title.png
 authors:
@@ -36,8 +38,8 @@ If a quest is not your cup of tea, you can even **reroll** it into another one a
 ### Regular quests
 | Quest                                                                                          | BP Reward |
 | :--------------------------------------------------------------------------------------------- | --------: |
-| Catch 1 Pokémon!                                                                               |    20     |
-| Defeat 10 wild Pokémon using Auto Battle!                                                      |    20     |
+| [Catch 1 Pokémon!](https://top-hat-gaming.com//blog/2023/12/catch-1-x-type-pokémon/)                                                                                 |    20     |
+| [Defeat 10 wild Pokémon using Auto Battle!](https://top-hat-gaming.com//blog/2023/12/defeat-10-wild-pok%C3%A9mon-using-auto-battle/)                                                   |    20     |
 | Give your Pokémon a nice washing!                                                              |    20     |
 | Pick up items on the ground 10 times!                                                          |    20     |
 | Successfully sneak up on 1 Pokémon and surprise them with a battle!                            |    20     |
@@ -49,7 +51,7 @@ If a quest is not your cup of tea, you can even **reroll** it into another one a
 | Take a photo of a wild Pokémon in the Savanna Biome!                                           |    30     |
 | Take a photo of a wild Pokémon that is swimming!                                               |    30     |
 | Terastallize your Pokémon to defeat a wild Pokémon!                                            |    30     |
-| Catch 1 X-type Pokémon!                                                                        |    40     |
+| [Catch 1 X-type Pokémon!](https://top-hat-gaming.com//blog/2023/12/catch-1-x-type-pokémon/)                                                                        |    40     |
 | Make yourself a TM!                                                                            |    40     |
 
 ### Strong quests

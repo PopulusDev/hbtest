@@ -9,4 +9,4 @@ menu:
         name: gamepad
 ---
 
-The example of Docs layout.
+Different games played.

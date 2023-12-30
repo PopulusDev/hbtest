@@ -2,7 +2,6 @@ main:
   - name: Games
     identifier: games
     weight: 20
-    url: /games
     params:
       header: Different games played.
       icon:
